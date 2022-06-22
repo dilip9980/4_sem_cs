@@ -2,3 +2,10 @@ welcome to cse
 the course aviable are
 java
 dsp
+os
+se
+
+
+
+thankyou
+with regards!!1
